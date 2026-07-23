@@ -1,4 +1,4 @@
-# Avisos de Terceros - Nodejs.Telegram.Bot.Juego_Pico_Pala
+# Avisos de Terceros - Nodejs.Telegram.Bot.Juego-Pico-Pala
 
 Este proyecto utiliza componentes de código abierto y dependencias desarrolladas por terceros. A continuación se detallan los avisos de licencias y atribuciones correspondientes:
 
