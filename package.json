@@ -1,0 +1,17 @@
+{
+  "name": "juego-node-pico-pala-bot",
+  "version": "1.0.0",
+  "description": "Un bot de Telegram para jugar al Pico y Pala clásico, desarrollado en Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ivan Dario Gaitan Sanchez",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "telegraf": "^4.16.3"
+  }
+}
